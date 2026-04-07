@@ -1,0 +1,8 @@
+# requirements.txt
+anthropic>=0.39.0
+openai>=1.50.0
+pinecone-client>=5.0.0
+pdfplumber>=0.11.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+langchain-text-splitters>=0.3.0
