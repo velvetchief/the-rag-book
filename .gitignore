@@ -1,0 +1,37 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pinecone / vector DB cache
+*.index
+*.pkl
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
