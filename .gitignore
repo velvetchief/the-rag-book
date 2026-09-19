@@ -35,3 +35,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# The book is sold on Amazon; never commit it here
+The_RAG_Book*.pdf

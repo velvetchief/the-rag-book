@@ -3,7 +3,7 @@
 **Retrieval, Agents & Multi-Agent Systems — From First Principles to Production Code**
 By Prithvi Datla · Kilobyte Collective
 
-The RAG Book is a 646-page field manual for building retrieval and agent systems that hold up in production. It's free. The whole book, all the code, three labs, and a multi-agent capstone are right here in this repo.
+The RAG Book is a 646-page field manual for building retrieval and agent systems that hold up in production. The book is on Amazon in Kindle and paperback. All the code, three labs, and a multi-agent capstone are right here in this repo, open for anyone to run.
 
 This page is the short version — what's inside, who it's for, and why it's built the way it is. If you just want to start running things, jump to [GETTING_STARTED.md](GETTING_STARTED.md).
 
@@ -72,15 +72,15 @@ Each one is self-contained, with its own setup and a `verify_setup.py` to check 
 
 ## Getting started
 
-1. Read the book — [`The_RAG_Book.pdf`](The_RAG_Book.pdf) is right here in the repo, or grab it from [theragbook.com](https://www.theragbook.com).
+1. Get the book on Amazon (Kindle or paperback). The link lives at [theragbook.com](https://www.theragbook.com), along with a 66-page sample.
 2. Clone the repo and run the code as you read.
 3. Do the labs in order, then build the capstone.
 
 Full setup — API keys, virtual environment, everything — is in [GETTING_STARTED.md](GETTING_STARTED.md).
 
-## Why it's free
+## Why the code is open
 
-Because I'm thankful I've been able to learn this stuff, and I want to give back. There's a lot of noise out there, and a lot of expensive options to learn. Getting the book is not the gate — finishing it is. There's good stuff beyond.
+Because I'm thankful I've been able to learn this stuff, and I want to give back. The book is the part you buy. The code that goes with it, every lab and the capstone, stays here for anyone to run. Getting the book is not the gate. Finishing it is. There's good stuff beyond.
 
 ## About the author
 
