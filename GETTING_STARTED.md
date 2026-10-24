@@ -10,12 +10,13 @@ New here? Start with the [overview](README.md). This file is the setup and quick
 
 ## What's in This Repo
 
-This repository contains all the runnable code, lab starters, sample datasets, and configuration templates from The RAG Book. The book itself is on Amazon in Kindle and paperback, linked from [theragbook.com](https://www.theragbook.com). Buy it, run the code, build something.
+This repository contains the full book PDF plus all runnable code, lab starters, sample datasets, and configuration templates from The RAG Book. **The book is free.** Read it, run the code, build something.
 
 ```
 the-rag-book/
 ├── README.md          Overview of the book (what it covers and why)
 ├── GETTING_STARTED.md This guide — setup and quick start
+├── The_RAG_Book.pdf   The complete 646-page book (PDF)
 ├── lab_01/            Lab 01: Build Your First RAG Pipeline
 ├── lab_02/            Lab 02: Advanced RAG (multi-query, hybrid, reranking)
 ├── lab_03/            Lab 03: Multi-Agent Intelligence Pipeline
@@ -77,6 +78,6 @@ This is a first-edition snapshot (April 2026). The code is pinned to the librari
 
 ## License
 
-This repository accompanies The RAG Book (First Edition, April 2026). The code is free for personal and educational use. The book is sold on Amazon; please do not redistribute it.
+This repository accompanies The RAG Book (First Edition, April 2026). The book and code are free for personal and educational use. Please do not redistribute or resell.
 
 Copyright 2026 Prithvi Datla. All rights reserved.
