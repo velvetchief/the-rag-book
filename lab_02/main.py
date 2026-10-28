@@ -94,7 +94,7 @@ def run_setup_check():
 # CONFIGURATION
 # =============================================================================
 
-CLAUDE_MODEL = "claude-sonnet-4-6-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 EMBEDDING_MODEL = "text-embedding-3-small"
 TOP_K = 5
 
