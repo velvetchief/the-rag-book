@@ -51,7 +51,7 @@ load_dotenv()
 
 EMBEDDING_MODEL = "text-embedding-3-small"
 EMBEDDING_DIMENSIONS = 1536
-CLAUDE_MODEL = "claude-sonnet-4-6-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 PINECONE_INDEX_NAME = "rag-lab-01"
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 75

@@ -295,7 +295,7 @@ pii_analyzer = AnalyzerEngine()
 pii_anonymizer = AnonymizerEngine()
 
 # --- Constants ---
-CLAUDE_MODEL = "claude-sonnet-4-6-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 EMBEDDING_MODEL = "text-embedding-3-small"
 MAX_COST_PER_RFP = 2.00  # $2 hard cap per RFP response
 MAX_REVISION_CYCLES = 2
